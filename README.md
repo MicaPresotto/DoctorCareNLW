@@ -1,11 +1,12 @@
 ## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
-  - HTML
-  - CSS
-  - JavaScript
-Bibliotecas
-  [Google Fonts(https://fonts.google.com)]
-  [Scroll Reveal(https://scrollrevealjs.org)]
+  * HTML
+  * CSS
+  * JavaScript
+
+### Bibliotecas
+  * [Google Fonts](https://fonts.google.com)
+  * [Scroll Reveal](https://scrollrevealjs.org)
   
 
 ## Projeto
