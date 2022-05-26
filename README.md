@@ -1,4 +1,4 @@
-# TECNOLOGIAS
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
   - HTML
   - CSS
@@ -8,13 +8,13 @@ Bibliotecas
   [Scroll Reveal(https://scrollrevealjs.org)]
   
 
-#Projeto
+## Projeto
   DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
   
-#Layout
+## Layout
   Visualize o layout através [desse link(https://micapresotto.github.io/DoctorCareNLW/)]
 
-# Licença
+## Licença
 
 Site feito por Micael Presotto juntamente ao projeto da NLW Return promovido pela Rocketseat. 
 No site foi utilizado HTML, CSS e JavaScript.
