@@ -20,4 +20,6 @@ Projeto desenvolvido com as seguintes tecnologias:
 Site feito por Micael Presotto juntamente ao projeto da NLW Return promovido pela Rocketseat. 
 No site foi utilizado HTML, CSS e JavaScript.
 
+### Social
+
 LinkedIn: https://www.linkedin.com/in/micael-angelo-sabadin-presotto-2838731b2/
